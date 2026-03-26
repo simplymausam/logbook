@@ -7,8 +7,8 @@ Logbook is a simple, privacy-focused alternative to apps like Notion, Obsidian, 
 
 Instead of complex systems and technical terms, Logbook uses a more human approach:
 
-- Books -> your collections
-- Logs -> your entries
+- Books = your collections
+- Logs = your entries
 
 Everything is designed to feel natural and distraction-free.
 
@@ -47,7 +47,7 @@ Actively being built and improved.
 
 ## Contributing
 
-** Not open for contributions yet **
+Not open for contributions yet
 
 ## Contact
 
