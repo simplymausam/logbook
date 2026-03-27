@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #ececec;
 }
 
 #app {
     max-width: 0 auto;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #ececec;
+    box-shadow: 0 2px 10px #131313;
 }
 .note {
-  background: white;
-  border: 1px solid #e1e1e1;
+  background: #ececec;
+  border: 1px solid #131313;
   border-radius: 5px;
   padding: 15px;
   margin-bottom: 15px;
@@ -23,12 +23,12 @@ body {
 }
 
 .note:focus {
-  border-color: #4285f4;
+  border-color: #0001d6;
   box-shadow: 0 0 0 2px rgba(66, 133, 244, 0.2);
 }
 
 button {
-  background: #4285f4;
+  background: #0001d6;
   color: white;
   border: none;
   border-radius: 5px;
@@ -38,5 +38,5 @@ button {
 }
 
 button:hover {
-  background: #3367d6;
+  background: #0001d6;
 }
